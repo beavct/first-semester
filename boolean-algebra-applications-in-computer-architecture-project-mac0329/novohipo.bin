@@ -1,0 +1,22 @@
+00 +5000 inicia
+01 +3135 le o numero
+02 +5428 se o numero for negativo/menor do que 0 (encerrar programa)
+03 +2536 divisão por 2
+04 +5212 maior que 0
+05 +5718 igual a 0
+12 +1134 copia o 1 no AC
+13 +2133 soma com s numeros impares
+14 +1233 copia o resultado da soma nos impares
+15 +5101 jump
+18 +1134 copia 1 no AC
+19 +2132 soma com os numeros pares
+20 +1232 copia o resultado da soma nos pares
+21 +5101 jump
+28 +4132 print pares
+29 +4133 print impares
+30 +7000 encerrar
+32 +0000 par
+33 +0000 ímpar
+34 +0001 
+35 +0000
+36 +0002

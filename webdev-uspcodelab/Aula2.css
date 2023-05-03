@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(240, 240, 240);
+  }
+  
+  h1 {
+    color: rgb(15, 61, 28);
+    text-align: center;
+  }
+  
+  h2 {
+    color: rgb(24, 94, 44); 
+  }
+  p {
+    font-family: Times New Roman;
+    text-align: justify;
+    font-size: 20px;
+  }
+li {
+  font-family: Times New Roman;
+  text-align: justify;
+  font-size: 20px;
+}
